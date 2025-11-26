@@ -3,6 +3,11 @@ body {
   color: #f0f0f0;
   padding: 40px;
 }
+
 .header {
   font-weight: 500;
+}
+
+.hidden {
+  display: none;
 }
